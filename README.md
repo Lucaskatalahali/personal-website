@@ -34,6 +34,4 @@ The `docs` folder contains the original Project Specification
 
 This repository preserves the original academic project as it was developed during my first year of university.
 
-For more academic projects, visit:
-
-**https://github.com/Lucaskatalahali/computer-engineering-projects**
+For more academic projects, visit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** repository.
