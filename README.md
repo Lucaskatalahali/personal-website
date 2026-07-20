@@ -2,41 +2,21 @@
 
 Academic project developed during my first year of the **Computer Engineering degree at Sakarya University**.
 
-This project was developed for the **Web Technologies** course using HTML, CSS, and JavaScript.
+This project was developed for the **Web Technologies** course using HTML, CSS, JavaScript, and PHP.
 
-The website presents personal information, interests, and content about Angola through a simple multi-page interface.
-
----
-
-## 🛠 Technologies
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-## ✨ Features
-
-- Multi-page website
-- Personal profile and introduction
-- Information about Angola
-- Image gallery
-- Responsive navigation
+The website presents personal information, personal interests, and content about Angola through a simple multi-page interface.
 
 ---
 
 ## 🌐 Live Demo
 
-https://lucaskatalahali.github.io/personal-website/
+https://lucasisaac.infinityfreeapp.com/
 
 ---
 
 ## 📄 Documentation
 
-The `docs` folder contains:
-
-- Original Project Specification
+The `docs` folder contains the original Project Specification
 
 ---
 
@@ -46,6 +26,7 @@ The `docs` folder contains:
 - **Department:** Computer Engineering
 - **Course:** Web Technologies
 - **Academic Year:** 2024–2025
+- **Project Grade:** 100/100
 
 ---
 
